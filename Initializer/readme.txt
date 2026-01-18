@@ -1,0 +1,1 @@
+Do not recreate project structure once created with the .bat file.
